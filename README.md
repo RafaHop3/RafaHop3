@@ -1,10 +1,8 @@
-```html
-<img src="assets/banner.svg" alt="RafaHop3 neon banner" style="max-width:100%; height:auto;"/>
-```
+![RafaHop3 neon banner](assets/banner.svg)
 
 # Rafael Machado - Full Stack Developer
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor versátil com experiência em JavaScript, TypeScript, Python e Vue.js. Gosto de criar soluções inovadoras e trabalhar em projetos desafiadores que f[...]
+Bem-vindo ao meu GitHub! Sou um desenvolvedor versátil com experiência em JavaScript, TypeScript, Python e Vue.js. Gosto de criar soluções inovadoras e trabalhar em projetos desafiadores que f[[...]
 
 ---
 
