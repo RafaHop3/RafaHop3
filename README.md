@@ -1,17 +1,10 @@
-```
-   _____ ______  ______  ______  _______ _______ _______ _______ _______ _______
-  / _ _ \\  _ \\/ _ _ \  _ _ \\  / ___  | __   |  __  |  ___  | __   | _____ |
- / | | | | | | | | | || | | | / ___| | || |_| || ||_| | /   \\| |  / /____| |
-| | | | | | | | | | || | | || |___ | ||  ___  || || | || |___|| | |___ __|
-| | | | | | | | | | || | | | \\____ \\| || |   | || || | ||  ___ | |  ___| |
- \\ \\_/ / | |_| |\\  _  /| |_| / |_____/| || |   | || || | || |   || | |     | |
-  \\___/  |_____/ \\_____/\\____/  \\____/ |_||_|   |_||_||_||_|   |_| |_|     |_|
-
+```html
+<img src="assets/banner.svg" alt="RafaHop3 neon banner" style="max-width:100%; height:auto;"/>
 ```
 
 # Rafael Machado - Full Stack Developer
 
-Bem-vindo ao meu GitHub! Sou um desenvolvedor versátil com experiência em JavaScript, TypeScript, Python e Vue.js. Gosto de criar soluções inovadoras e trabalhar em projetos desafiadores que fazem a diferença.
+Bem-vindo ao meu GitHub! Sou um desenvolvedor versátil com experiência em JavaScript, TypeScript, Python e Vue.js. Gosto de criar soluções inovadoras e trabalhar em projetos desafiadores que f[...]
 
 ---
 
